@@ -1,5 +1,5 @@
-### Hi there 👋
-<img src="file:///C:/Users/rlaeo/Downloads/c%20(1).svg"/>
+languages
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <!--
 **daebeobkim/daebeobkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
