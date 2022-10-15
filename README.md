@@ -9,4 +9,4 @@
 ![79061fd4-7526-4517-a3d3-2eddcda7e61f](https://ogq-sticker-global-cdn-z01.afreecatv.com/sticker/16f23adaf342dde/main.png)<a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daebeobkim&show_icons=true&theme=radical)
-[![daebeobkim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=daebeobkimID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/daebeobkim)
+![daebeobkim's github stats](https://github-readme-stats.vercel.app/api?username=daebeobkim&show_icons=true)
