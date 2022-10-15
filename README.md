@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&animation=fadeIn&height=300&section=header&text=HELLO WORLD!&fontSize=90" />
+
 ### Skills
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/><br/>
