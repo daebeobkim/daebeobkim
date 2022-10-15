@@ -6,5 +6,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/>
 
-
-<img src="https://ogq-sticker-global-cdn-z01.afreecatv.com/sticker/16f23adaf342dde/main.png"/><br/>
+![79061fd4-7526-4517-a3d3-2eddcda7e61f](https://ogq-sticker-global-cdn-z01.afreecatv.com/sticker/16f23adaf342dde/main.png)<a>
