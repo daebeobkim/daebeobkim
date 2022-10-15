@@ -8,4 +8,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/>
 
-<a href="rlaeoqjq1@naver.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"</a>
+Are you an early 🐤 or a night 🦉?
+   <br/>
+   When are you most productive during the day?
+   <br/>
+   Let's check out in gist!
