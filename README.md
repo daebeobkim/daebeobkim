@@ -7,3 +7,5 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/>
 
 ![79061fd4-7526-4517-a3d3-2eddcda7e61f](https://ogq-sticker-global-cdn-z01.afreecatv.com/sticker/16f23adaf342dde/main.png)<a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daebeobkim&show_icons=true&theme=radical)
