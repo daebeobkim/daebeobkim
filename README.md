@@ -6,4 +6,5 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/>
 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=yunduhee&animation=fadeIn&fontSize=90" /><br/>
+- Operating System<br/>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
