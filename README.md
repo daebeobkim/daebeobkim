@@ -1,7 +1,7 @@
 
 ![79061fd4-7526-4517-a3d3-2eddcda7e61f](https://ogq-sticker-global-cdn-z01.afreecatv.com/sticker/16f23adaf342dde/main.png)<a>
 
-https://rlaeoqjq.tistory.com/manage
+https://rlaeoqjq.tistory.com/
 ### Skills
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/>
